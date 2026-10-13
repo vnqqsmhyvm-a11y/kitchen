@@ -13,7 +13,8 @@ if [ $# -eq 1 ]; then
   [ -d "$SRC" ] && ls "$SRC"/*.md >/dev/null 2>&1 || { echo "no recipes in $SRC" >&2; exit 2; }
   if [ "$SRC" != "$(pwd)/food/recipes" ]; then
     mkdir -p food/recipes
-    rsync -a --delete --include='*.md' --exclude='*' "$SRC"/ food/recipes/
+    find food/recipes -maxdepth 1 -name '*.md' -delete
+    cp "$SRC"/*.md food/recipes/
   fi
 fi
 python3 fetch_photos.py food

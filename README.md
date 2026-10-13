@@ -12,4 +12,6 @@ Live: https://vnqqsmhyvm-a11y.github.io/kitchen/
 
 Privacy: `build.py` strips family names, approval/dislike lines, private notes and links to private vault files at render time (the markdown is never edited), then fails the build if any family name or private path remains in the HTML.
 
-Needs: python3 with pillow and requests; rsync.
+Needs: python3 with pillow and requests.
+
+`food/` is git-ignored: the raw cards contain family names and private notes, so only the scrubbed HTML is published.
