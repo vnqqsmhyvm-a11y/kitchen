@@ -1,0 +1,1099 @@
+{
+ "american-potato-salad": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "bacon-in-oven": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "baked-cod-with-tomatoes": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "baked-eggplant-parmesan": {
+  "path": "photos/baked-eggplant-parmesan.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/08/eggplant-parmesan-25-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "baked-feta-tomato-pasta": {
+  "path": "photos/baked-feta-tomato-pasta.jpg",
+  "source": "https://static01.nyt.com/images/2021/04/18/dining/mp-feta-pasta/mp-feta-pasta-facebookJumbo-v2.jpg",
+  "credit": "cooking.nytimes.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "baked-salmon-in-foil": {
+  "path": "photos/baked-salmon-in-foil.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/07/baked-salmon-in-foil-532-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "baked-tandoori-chicken": {
+  "path": "photos/baked-tandoori-chicken.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2015/09/Tandoori-Chicken__2.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "baked-vegetable-frittata": {
+  "path": "photos/baked-vegetable-frittata.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2019/03/Baked-Frittata_1.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "beef-and-broccoli": {
+  "path": "photos/beef-and-broccoli.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/04/beef-and-broccoli-recipe-14.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "beef-kofta-with-roasted-vegetables": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "black-bean-burgers": {
+  "path": "photos/black-bean-burgers.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2021/07/black-bean-burger-recipe-036.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "black-bean-tacos": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "black-eyed-peas-and-greens": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "blackened-tilapia": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "brazilian-fish-stew-moqueca": {
+  "path": "photos/brazilian-fish-stew-moqueca.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2015/09/Brazilian-Fish-Stew_6.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "brazilian-rice": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "breakfast-burritos": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "cajun-potato-soup": {
+  "path": "photos/cajun-potato-soup.jpg",
+  "source": "https://pbs.twimg.com/media/HT6gQIEWMAAVLmx.png",
+  "credit": "x.com post media (Flavorful Kitchen Adventures)",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "carrot-cake-cookies": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "cava-night": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "chicken-and-rice-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-and-stuffing-casserole": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-drumsticks-dry-rub": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-kabobs": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-noodle-soup": {
+  "path": "photos/chicken-noodle-soup.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2021/12/chicken-noodle-soup-15-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "chicken-or-steak-ramen": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-piccata-meatballs": {
+  "path": "photos/chicken-piccata-meatballs.jpg",
+  "source": "https://pbs.twimg.com/media/HUOuF5kW0AEKftq.png",
+  "credit": "x.com post media (Flavorful Kitchen Adventures)",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "chicken-salad": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chicken-shawarma-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "chicken-tortilla-soup": {
+  "path": "photos/chicken-tortilla-soup.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/12/chicken-tortilla-soup-07-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "chili": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "chinese-cashew-chicken": {
+  "path": "photos/chinese-cashew-chicken.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2015/10/Cashew-Chicken_6.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "chocolate-covered-graham-crackers": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "cod-fish-tacos-with-cumin-lime-slaw": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "copycat-panda-teriyaki-chicken": {
+  "path": "photos/copycat-panda-teriyaki-chicken.jpg",
+  "source": "https://www.pocketfriendlyrecipes.com/wp-content/uploads/2024/03/MSN-Panda-Express-Teriyaki-Chicken.jpg",
+  "credit": "pocketfriendlyrecipes.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "corn-flake-chicken": {
+  "path": "photos/corn-flake-chicken.jpg",
+  "source": "https://www.tasteofhome.com/wp-content/uploads/2024/12/EXPS_TOHD24_19857_KaylaWidmer_5.jpg",
+  "credit": "tasteofhome.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "corn-flake-fish": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "creamy-pesto-pasta-salad": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "creamy-salmon-orzo": {
+  "path": "photos/creamy-salmon-orzo.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2016/03/Creamy-Salmon-Risoni-Orzo_2.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "cuban-picadillo": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "curry-chicken": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "dal-yellow-split-pea-curry": {
+  "path": "photos/dal-yellow-split-pea-curry.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2018/07/Dal_0-2.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "enfrijoladas": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "falafel-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "filipino-pork-adobo": {
+  "path": "photos/filipino-pork-adobo.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2025/08/Pork-adobo-served-with-rice.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "fish-chowder": {
+  "path": "photos/fish-chowder.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2019/04/White-Fish-Soup_6.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "gigantes-plaki-greek-baked-beans": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "greek-artichoke-dip": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "greek-chicken-bowls": {
+  "path": "photos/greek-chicken-bowls.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/04/greek-chicken-bowls-02-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "greek-turkey-and-rice-skillet": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "greek-turkey-burgers": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "grilled-lemon-garlic-shrimp": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "grilled-pork-chops": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "grilled-steak": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "ground-turkey-stir-fry": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "ham-and-cottage-cheese-hot-pocket": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "ham-and-white-bean-soup": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "harissa-chicken-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "healthier-hamburger-helper": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "honey-garlic-glazed-beef": {
+  "path": "photos/honey-garlic-glazed-beef.jpg",
+  "source": "https://pbs.twimg.com/media/HUL3KiBbAAANF3p.jpg",
+  "credit": "x.com post media (Spoon and Soul)",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "honey-garlic-salmon": {
+  "path": "photos/honey-garlic-salmon.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2015/11/honey-garlic-salmon-34-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "honey-garlic-tilapia": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "huevos-rancheros-bowls": {
+  "path": "photos/huevos-rancheros-bowls.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2014/10/Huevos-Rancheros-Tortilla-Bowls-12.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "inside-out-egg-rolls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "instant-pot-butter-chicken": {
+  "path": "photos/instant-pot-butter-chicken.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2019/05/Instant-Pot-Butter-Chicken-41.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "instant-pot-chicken-cacciatore": {
+  "path": "photos/instant-pot-chicken-cacciatore.jpg",
+  "source": "https://www.skinnytaste.com/wp-content/uploads/2017/10/Instant-Pot-Chicken-Cacciotore-1-3.jpg",
+  "credit": "skinnytaste.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "jambalaya": {
+  "path": "photos/jambalaya.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2019/06/Jambalaya_0.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "korean-beef-bowls": {
+  "path": "photos/korean-beef-bowls.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2025/09/Easy-Korean-Bulgogi-Beef-Bowls_7.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "lemon-chicken-orzo": {
+  "path": "photos/lemon-chicken-orzo.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/02/lemon-chicken-orzo-17-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "lemon-garlic-butter-tilapia": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "lentil-bolognese": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "make-ahead-bean-and-cheese-burritos": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "mediterranean-beef-wraps": {
+  "path": "photos/mediterranean-beef-wraps.jpg",
+  "source": "https://pbs.twimg.com/media/HUOuZu0XYAAUyYM.png",
+  "credit": "x.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "mediterranean-tuna-pasta": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "mujaddara": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "no-added-sugar-blueberry-muffins": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "one-pan-bang-bang-salmon-potato-bake": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "one-pot-spanish-chickpea-chicken": {
+  "path": "photos/one-pot-spanish-chickpea-chicken.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2017/01/one-pot-spanish-chickpea-chicken-1200-2155.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "parmesan-crusted-baked-tilapia": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "pasta-e-ceci": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "pasta-primavera": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "peanut-noodles-with-chicken": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "pesto-chicken-pasta": {
+  "path": "photos/pesto-chicken-pasta.jpg",
+  "source": "https://pinchofyum.com/tachyon/2014/03/lemon-pesto-penne-3.jpg",
+  "credit": "pinchofyum.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "polish-cabbage-rolls": {
+  "path": "photos/polish-cabbage-rolls.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2026/09/Cabbage-Rolls_3.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "pork-chile-verde": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "pork-lo-mein": {
+  "path": "photos/pork-lo-mein.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2019/11/Lo-Mein_5.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "pork-ribs": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "pork-souvlaki": {
+  "path": "photos/pork-souvlaki.jpg",
+  "source": "https://www.tasteofhome.com/wp-content/uploads/2024/10/Pork-Souvlaki_EXPS_FT24_277744_EC_1003_7.jpg",
+  "credit": "tasteofhome.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "punjabi-egg-curry": {
+  "path": "photos/punjabi-egg-curry.jpg",
+  "source": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/egg-curry-recipe.jpg",
+  "credit": "indianhealthyrecipes.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "quesadillas": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "rajma-kidney-bean-curry": {
+  "path": "photos/rajma-kidney-bean-curry.jpg",
+  "source": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/rajma-recipe-rajma-masala.jpg",
+  "credit": "indianhealthyrecipes.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "red-beans-and-brown-rice": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "ritz-chicken-nugget-protein-bowl": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "roasted-veggie-hummus-bowls": {
+  "path": "photos/roasted-veggie-hummus-bowls.jpg",
+  "source": "https://pinchofyum.com/tachyon/Roasted-Cauliflower-Hummus-Bowls.jpg",
+  "credit": "pinchofyum.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "salmon-patties": {
+  "path": "photos/salmon-patties.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/07/salmon-patties-17-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sausage-and-fried-potatoes": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "sesame-tofu-with-broccoli": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "shakshuka": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "sheet-pan-chicken-fajitas": {
+  "path": "photos/sheet-pan-chicken-fajitas.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/02/sheet-pan-chicken-fajitas-09-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sheet-pan-chickpeas-feta-tomatoes": {
+  "path": "photos/sheet-pan-chickpeas-feta-tomatoes.jpg",
+  "source": "https://static01.nyt.com/images/2022/07/28/dining/as-roasted-feta-and-chickpeas/merlin_209335479_52115ec4-9a9b-483e-b749-ed40dc44a69d-facebookJumbo.jpg",
+  "credit": "cooking.nytimes.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sheet-pan-lemon-herb-chicken": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "sheet-pan-pork-tenderloin": {
+  "path": "photos/sheet-pan-pork-tenderloin.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2026/01/sheet-pan-pork-tenderloin-recipe-11-3.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sheet-pan-sausage-and-peppers": {
+  "path": "photos/sheet-pan-sausage-and-peppers.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/02/sausage-and-peppers-23-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "shrimp-and-grits": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "shrimp-and-veggie-foil-packs": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "shrimp-and-white-bean-stew": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "shrimp-fried-rice": {
+  "path": "photos/shrimp-fried-rice.jpg",
+  "source": "https://www.recipetineats.com/tachyon/2016/05/Chinese-Fried-Rice_2.jpg",
+  "credit": "recipetineats.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "shrimp-scampi-pasta": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "shrimp-stir-fry": {
+  "path": "photos/shrimp-stir-fry.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/06/shrimp-stir-fry-recipe-21.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "skillet-chicken-tortilla-casserole": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "slow-cooker-beef-stew": {
+  "path": "photos/slow-cooker-beef-stew.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/10/slow-cooker-beef-stew-30-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "slow-cooker-black-bean-soup": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "slow-cooker-chana-saag": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "slow-cooker-corned-beef": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "slow-cooker-lentil-soup": {
+  "path": "photos/slow-cooker-lentil-soup.jpg",
+  "source": "https://mojo.generalmills.com/api/public/content/Mev6s1IML02SAd4CaFyj_g_gmi_hi_res_jpeg.jpeg?v=f543d754&t=466b54bb264e48b199fc8e83ef1136b4",
+  "credit": "bettycrocker.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "slow-cooker-mexican-shredded-beef": {
+  "path": "photos/slow-cooker-mexican-shredded-beef.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/09/shredded-beef-recipe-29.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "slow-cooker-pork-carnitas": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "smoky-potato-chickpea-stew": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "spaghetti-and-meatballs": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "spinach-lasagna-roll-ups": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "spinach-ricotta-chicken-bake": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "split-pea-soup": {
+  "path": "photos/split-pea-soup.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/03/split-pea-soup-08-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "steak-kabobs": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "stuffed-peppers-beans-and-rice": {
+  "path": "photos/stuffed-peppers-beans-and-rice.jpg",
+  "source": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Vegetarian-Stuffed-Peppers_EXPS_TOHcom25_39536_MD_P2_04_02_1b.jpg",
+  "credit": "tasteofhome.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sweet-potato-black-bean-enchiladas": {
+  "path": "photos/sweet-potato-black-bean-enchiladas.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/04/vegetarian-enchiladas-22.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "sweet-potato-turkey-orzo-skillet": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "tacos": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "teriyaki-salmon-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "tex-mex-crockpot-chicken": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "tuna-noodle-casserole": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "turkey-baked-ziti": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "turkey-chili": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "turkey-keema-curry": {
+  "path": "photos/turkey-keema-curry.jpg",
+  "source": "https://images.immediate.co.uk/production/volatile/sites/2/2019/05/TurkeyKheemaMatar-298d798.jpg?resize=1200%2C630",
+  "credit": "olivemagazine.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "turkey-meatballs-in-tomato-sauce": {
+  "path": "photos/turkey-meatballs-in-tomato-sauce.jpg",
+  "source": "https://www.nourish-and-fete.com/wp-content/uploads/2022/05/baked-turkey-meatballs-facebook.jpg",
+  "credit": "nourish-and-fete.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "turkey-meatloaf": {
+  "path": "photos/turkey-meatloaf.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/03/turkey-meatloaf-recipe-12-2.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "turkey-minestrone": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "turkey-sloppy-joes": {
+  "path": "photos/turkey-sloppy-joes.jpg",
+  "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/07/turkey-sloppy-joes-02.jpg",
+  "credit": "kristineskitchenblog.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "turkey-zucchini-boats": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "tuscan-salmon-skillet": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "tzatziki-bowls": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ },
+ "vegetarian-lentil-shepherds-pie": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "white-bean-kale-soup": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-10-13",
+  "note": "site bot-check blocked the page (HTTPError 403)"
+ },
+ "white-chicken-chili": {
+  "path": "photos/white-chicken-chili.jpg",
+  "source": "https://www.averiecooks.com/wp-content/uploads/2020/02/whitechickenchili-10-650x977-1.webp",
+  "credit": "averiecooks.com",
+  "status": "ok",
+  "checked": "2026-10-13"
+ },
+ "yellow-rice-and-chicken": {
+  "path": "",
+  "source": "",
+  "credit": "",
+  "status": "unavailable",
+  "checked": "2026-10-13",
+  "note": "no photo or web source on card"
+ }
+}
