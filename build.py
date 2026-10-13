@@ -328,7 +328,7 @@ def card(r, photo, base):
     img = (f'<img src="{base}{esc(photo["path"])}" alt="" loading="lazy" decoding="async">'
            if photo else placeholder(r))
     search = " ".join([r["title"], a.get("protein", ""), " ".join(l for _, _, l in tags), r["ingredients_text"]]).lower()
-    shown = [l for g, v, l in tags if g in ("protein", "x", "med") and not (g == "med" and v == "no")][:3]
+    shown = [l for g, v, l in tags if g in ("protein", "med") and not (g == "med" and v == "no")][:3]
     return (f'<li class="card" data-tags="{esc(data)}" data-search="{esc(search)}">'
             f'<a href="{base}recipes/{r["slug"]}/"><div class="thumb">{img}</div>'
             f'<div class="cbody"><span class="ck">{esc(" · ".join(meta))}</span>'
@@ -449,7 +449,7 @@ def build_recipe(r, photo, slugs, total_count, css_v):
         src_html = f'<p class="src"><a class="btn" href="{esc(src, quote=True)}" rel="noopener noreferrer nofollow" target="_blank">Original recipe at {esc(dom)} ↗</a></p>'
     elif src and scrub(src):
         src_html = f'<p class="src">Source: {esc(plain(scrub(src)))}</p>'
-    chips = "".join(f'<i>{esc(l)}</i>' for _, _, l in r["tags"])
+    chips = "".join(f'<i>{esc(l)}</i>' for g, _, l in r["tags"] if g != "x")
     return head(f'{r["title"]} — The Kitchen', base, css_v) + masthead(base, "lib", total_count) + f"""
 <main class="recipe">
 <p class="back"><a href="{base}">← Recipe Library</a></p>
