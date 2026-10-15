@@ -132,3 +132,29 @@ h3.sub,.recipe h3{font:700 1rem/1.3 var(--display);margin:1rem 0 .3rem}
   .finder{max-width:none}
 }
 @media print{body{background:#fff;color:#000}.finder,.band,.back,.src,.colophon{display:none}.hero img{max-height:14rem}}
+
+/* This Week */
+.week{max-width:40rem;margin:0 auto}
+.week h1{font:900 clamp(1.9rem,8vw,3rem)/1.08 var(--display);margin:1.2rem 0 .35rem;letter-spacing:-.01em;text-align:center}
+.wrange{text-align:center;font:500 .74rem/1.3 var(--label);letter-spacing:.12em;text-transform:uppercase;color:var(--muted);margin:0 0 1.1rem}
+.wlead{font-size:.95rem;color:var(--soft);margin:.2rem 0 .7rem}
+.schedule{list-style:none;margin:0 0 1.4rem;padding:0;border-top:2px solid var(--rule-strong)}
+.schedule li{display:grid;grid-template-columns:7.5rem 1fr;gap:.6rem;align-items:baseline;
+  border-bottom:1px solid var(--rule);padding:.55rem .15rem}
+.schedule .wday{font:500 .72rem/1.3 var(--label);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.schedule .wdish{font-size:1.02rem;line-height:1.35}
+.schedule .wdish a{text-decoration:none;font-weight:600}
+.schedule .wdish a:hover{color:var(--accent);text-decoration:underline}
+.schedule li.emh .wdish{font-style:italic;color:var(--soft)}
+.schedule.compact li{grid-template-columns:2.8rem 1fr;padding:.35rem .1rem;font-size:.95rem}
+.queued{list-style:none;margin:0 0 1.2rem;padding:0;border-top:1px solid var(--rule)}
+.queued li{border-bottom:1px solid var(--rule);padding:.5rem .1rem;display:flex;flex-wrap:wrap;gap:.4rem .8rem;align-items:baseline}
+.queued a{font-weight:600;text-decoration:none}
+.queued a:hover{color:var(--accent);text-decoration:underline}
+.qwhen{font:500 .66rem/1 var(--label);letter-spacing:.1em;text-transform:uppercase;color:var(--muted)}
+.archive{margin:0 0 1rem}
+.arch-week{border-bottom:1px solid var(--rule);padding:.15rem 0}
+.arch-week summary{font:500 .8rem/1.4 var(--label);letter-spacing:.08em;text-transform:uppercase;color:var(--soft);
+  cursor:pointer;padding:.55rem 0}
+.arch-week[open] summary{color:var(--accent)}
+.arch-week .schedule{margin:.2rem 0 .7rem;border-top:1px solid var(--rule)}

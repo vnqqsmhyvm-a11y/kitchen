@@ -4,7 +4,7 @@
 Usage: python3 build.py [path/to/food]      (default: ./food)
 
 Reads <food>/recipes/*.md and photos.json (written by fetch_photos.py) and writes
-index.html, recipes/<slug>/index.html, week/index.html, robots.txt, .nojekyll.
+index.html, recipes/<slug>/index.html, week/index.html (This Week + archive), robots.txt, .nojekyll.
 Privacy: family names, private notes and private vault paths are stripped HERE, at
 render time. The source markdown is never modified.
 """
@@ -13,6 +13,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from datetime import date, timedelta
 
 ROOT = Path(__file__).resolve().parent
 FOOD = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "food"
@@ -468,12 +469,245 @@ def build_recipe(r, photo, slugs, total_count, css_v):
 </main>
 """ + FOOT
 
-def build_week(count, css_v):
+# ---------------------------------------------------------------- week plans
+
+WIKI = re.compile(r"\[\[([^\]|#]+)(?:\|[^\]]+)?\]\]")
+DAY_ROW = re.compile(
+    r"^\|\s*(Mon|Tue|Wed|Thu|Fri|Sat|Sun)\b[^|]*\|\s*([^|]+)\|",
+    re.I,
+)
+QUEUED_ROW = re.compile(
+    r"^\|\s*([^|]+?)\s*\|\s*[^|]*\|\s*[^|]*\|\s*([^|]*?)\s*\|\s*([^|]+?)\s*\|",
+)
+
+def title_key(s):
+    s = scrub(s) or s
+    s = re.sub(r"\s+", " ", s.strip().lower())
+    return s
+
+def build_title_map(recs):
+    """Map scrubbed # title → slug. Also index the part before a parenthetical."""
+    m = {}
+    for r in recs:
+        title = r["title"]
+        m[title_key(title)] = r["slug"]
+        # "Curry Chicken (Red Curry Chicken & Rice)" also answers [[Curry Chicken]]
+        short = re.sub(r"\s*\([^)]*\)\s*$", "", title).strip()
+        if short and title_key(short) not in m:
+            m[title_key(short)] = r["slug"]
+    return m
+
+def dinner_cell(raw, title_map):
+    """Return (display_text, slug_or_None, from_wiki). Wikilink → recipe if known; else plain."""
+    raw = raw.strip()
+    m = WIKI.search(raw)
+    if m:
+        name = m.group(1).strip()
+        slug = title_map.get(title_key(name))
+        display = scrub(name) or name
+        if re.search(NAMES, display):
+            display = re.sub(NAMES, "", display).strip(" -–—")
+        return display, slug, True
+    # plain / open night
+    text = scrub(raw) or raw
+    text = WIKI.sub(lambda mm: mm.group(1), text)
+    text = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"\1", text)
+    if re.search(NAMES, text):
+        text = re.sub(NAMES, "", text)
+        text = re.sub(r"\s{2,}", " ", text).strip(" -–—")
+    return text.strip(), None, False
+
+def parse_plan(path, title_map):
+    """Parse plans/YYYY-MM-DD.md → {sat, mon, days:[(dow, label, text, slug)|...]}."""
+    sat = date.fromisoformat(path.stem)
+    mon = sat - timedelta(days=5)
+    lines = path.read_text(encoding="utf-8").splitlines()
+    in_week = False
+    days = []  # Mon–Sat only
+    seen = set()
+    for ln in lines:
+        if ln.startswith("## "):
+            in_week = ln.strip().lower() == "## the week"
+            continue
+        if not in_week:
+            continue
+        if ln.startswith("## "):
+            break
+        m = DAY_ROW.match(ln)
+        if not m:
+            continue
+        dow = m.group(1).capitalize()
+        if dow == "Sun":
+            continue
+        if dow in seen:
+            continue
+        seen.add(dow)
+        text, slug, from_wiki = dinner_cell(m.group(2), title_map)
+        # day label from cell start e.g. "Mon Oct 12"
+        day_label = ln.split("|")[1].strip()
+        day_label = scrub(day_label) or day_label
+        days.append({"dow": dow, "label": day_label, "text": text, "slug": slug, "from_wiki": from_wiki})
+    order = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]
+    days.sort(key=lambda d: order.index(d["dow"]) if d["dow"] in order else 99)
+    return {"sat": sat, "mon": mon, "days": days, "path": path}
+
+def parse_queued(path, title_map, current_sat):
+    """Upcoming: status queued, or scheduled for a week after current_sat."""
+    if not path.exists():
+        return []
+    out = []
+    for ln in path.read_text(encoding="utf-8").splitlines():
+        if not ln.startswith("|") or ln.startswith("|---") or ln.startswith("| Recipe"):
+            continue
+        parts = [p.strip() for p in ln.strip("|").split("|")]
+        if len(parts) < 5:
+            continue
+        recipe, _card, _req, target, status = parts[0], parts[1], parts[2], parts[3], parts[4]
+        if recipe.lower() == "recipe":
+            continue
+        st = status.lower()
+        # target week date if present
+        tm = re.search(r"(\d{4}-\d{2}-\d{2})", target)
+        target_d = date.fromisoformat(tm.group(1)) if tm else None
+        upcoming = False
+        if st.startswith("queued"):
+            upcoming = True
+        elif "scheduled" in st:
+            if target_d and target_d > current_sat:
+                upcoming = True
+            elif not target_d:
+                upcoming = True
+        if not upcoming:
+            continue
+        # name may be plain or linked
+        name = recipe
+        wm = WIKI.search(recipe)
+        if wm:
+            name = wm.group(1).strip()
+        name = scrub(name) or name
+        if re.search(NAMES, name):
+            continue
+        slug = title_map.get(title_key(name))
+        if not slug:
+            cm = re.search(r"recipes/([a-z0-9-]+)\.md", _card)
+            if cm and cm.group(1) in set(title_map.values()):
+                slug = cm.group(1)
+        out.append({"name": name, "slug": slug, "target": target_d, "status": "queued" if st.startswith("queued") else "scheduled"})
+    return out
+
+def link_dinner(text, slug, base):
+    safe = esc(text)
+    if slug:
+        return f'<a href="{base}recipes/{esc(slug)}/">{safe}</a>'
+    return safe
+
+def render_schedule(days, base, sunday_label="Sunday"):
+    rows = []
+    for d in days:
+        rows.append(
+            f'<li><span class="wday">{esc(d["label"])}</span>'
+            f'<span class="wdish">{link_dinner(d["text"], d["slug"], base)}</span></li>'
+        )
+    rows.append(
+        f'<li class="emh"><span class="wday">{esc(sunday_label)}</span>'
+        f'<span class="wdish">Every man for himself</span></li>'
+    )
+    return '<ol class="schedule">' + "".join(rows) + "</ol>"
+
+def build_week(recs, title_map, count, css_v):
     base = "../"
-    return head("This Week — The Kitchen", base, css_v) + masthead(base, "week", count) + f"""
-<main class="stub"><h1>This Week</h1><p>Coming soon — the weekly dinner plan will live here.</p>
-<p><a href="{base}">Browse the Recipe Library →</a></p></main>
+    plans_dir = FOOD / "plans"
+    today = date.today()  # box clock is America/Chicago
+    # Saturday of the Mon–Sat week containing today (Sun → next Sat's week hasn't started; Sun is EMH of prior)
+    # Week is Mon–Sat named by its Saturday. If today is Sun, show the week that just ended? Task: current week Saturday is 2026-10-17 on Thu Oct 15.
+    # weekday(): Mon=0 … Sun=6. Days until Saturday: (5 - weekday()) % 7 — on Sat = 0.
+    wd = today.weekday()
+    if wd == 6:  # Sunday EMH — still show the week that ends tomorrow? Or the week that ended yesterday?
+        # Sunday is outside Mon–Sat; show the plan whose Sat was yesterday (just-finished week) OR upcoming?
+        # Safer: the most recent plan with sat >= today-1 and sat <= today+6, else nearest.
+        current_sat = today - timedelta(days=1)  # yesterday was Sat of that week
+    else:
+        current_sat = today + timedelta(days=(5 - wd))
+
+    plans = []
+    if plans_dir.is_dir():
+        for f in sorted(plans_dir.glob("*.md")):
+            if f.name.lower() == "readme.md":
+                continue
+            try:
+                date.fromisoformat(f.stem)
+            except ValueError:
+                continue
+            plans.append(parse_plan(f, title_map))
+
+    current = next((p for p in plans if p["sat"] == current_sat), None)
+    if current is None and plans:
+        # nearest plan at or after today\'s week, else latest past
+        future = [p for p in plans if p["sat"] >= current_sat]
+        current = min(future, key=lambda p: p["sat"]) if future else max(plans, key=lambda p: p["sat"])
+        current_sat = current["sat"]
+
+    past = sorted([p for p in plans if p["sat"] < current_sat], key=lambda p: p["sat"], reverse=True)
+    queued = parse_queued(FOOD / "queued-recipes.md", title_map, current_sat)
+
+    # --- current week block
+    if current and current["days"]:
+        sun = current["sat"] + timedelta(days=1)
+        sun_label = f"Sunday {sun.strftime('%b %-d')}"
+        mon_s = current["mon"].strftime("%b %-d")
+        sat_s = current["sat"].strftime("%b %-d, %Y")
+        week_head = f'<p class="wrange">Monday {esc(mon_s)} – Saturday {esc(sat_s)}</p>'
+        sched = render_schedule(current["days"], base, sun_label)
+        miss_notes = [d["text"] for d in current["days"] if d.get("from_wiki") and not d["slug"]]
+        cur_html = week_head + sched
+        if not any(d["slug"] for d in current["days"]) and len(current["days"]) < 6:
+            cur_html += '<p class="todo">Plan table incomplete.</p>'
+    else:
+        cur_html = '<p class="todo">No meal plan on file for this week yet.</p>'
+        miss_notes = []
+
+    # --- queued
+    q_items = []
+    for q in queued:
+        name_html = link_dinner(q["name"], q["slug"], base)
+        when = q["target"].strftime("%b %-d") if q["target"] else ""
+        when_html = f'<span class="qwhen">Week of {esc(when)}</span>' if when else ""
+        q_items.append(f"<li>{name_html}{when_html}</li>")
+    queued_html = (
+        '<ul class="queued">' + "".join(q_items) + "</ul>"
+        if q_items else '<p class="todo">Nothing waiting in the queue.</p>'
+    )
+
+    # --- archive
+    arch = []
+    for p in past:
+        mon_s = p["mon"].strftime("%b %-d")
+        sat_s = p["sat"].strftime("%b %-d, %Y")
+        items = "".join(
+            f'<li><span class="wday">{esc(d["dow"])}</span>'
+            f'<span class="wdish">{link_dinner(d["text"], d["slug"], base)}</span></li>'
+            for d in p["days"]
+        )
+        arch.append(
+            f'<details class="arch-week"><summary>Week of {esc(mon_s)} – {esc(sat_s)}</summary>'
+            f'<ol class="schedule compact">{items}</ol></details>'
+        )
+    arch_html = "".join(arch) if arch else '<p class="todo">No past weeks yet.</p>'
+
+    body = head("This Week — The Kitchen", base, css_v) + masthead(base, "week", count) + f"""
+<main class="week">
+<h1>This Week</h1>
+{cur_html}
+<h2 class="kicker">Coming Up</h2>
+<p class="wlead">Recipes waiting for a future week.</p>
+{queued_html}
+<h2 class="kicker">Past Weeks</h2>
+<div class="archive">
+{arch_html}
+</div>
+</main>
 """ + FOOT
+    return body, miss_notes, current_sat, current
 
 def main():
     files = sorted(RECIPES.glob("*.md"))
@@ -504,19 +738,31 @@ def main():
         if d.is_dir() and d.name not in keep:
             for f in d.iterdir(): f.unlink()
             d.rmdir()
+    title_map = build_title_map(recs)
     (ROOT / "week").mkdir(exist_ok=True)
-    (ROOT / "week/index.html").write_text(build_week(len(recs), css_v), encoding="utf-8")
+    week_html, miss_notes, cur_sat, cur_plan = build_week(recs, title_map, len(recs), css_v)
+    (ROOT / "week/index.html").write_text(week_html, encoding="utf-8")
     (ROOT / "robots.txt").write_text("User-agent: *\nDisallow: /\n")
     (ROOT / ".nojekyll").write_text("")
-    # privacy self-check on generated HTML
+    # privacy self-check on generated HTML (library + week)
     bad = []
-    for f in [ROOT / "index.html", *rdir.glob("*/index.html")]:
+    check_files = [ROOT / "index.html", ROOT / "week/index.html", *rdir.glob("*/index.html")]
+    # any archive HTML under week/
+    check_files.extend(sorted((ROOT / "week").glob("**/index.html")))
+    seen_f = set()
+    for f in check_files:
+        if f in seen_f or not f.exists():
+            continue
+        seen_f.add(f)
         t = re.sub(r"<script>.*?</script>", "", f.read_text(), flags=re.S)
-        for m in re.finditer(NAMES + r"|queued-recipes|family-preferences|diet-lens", t, re.I):
+        for m in re.finditer(NAMES + r"|queued-recipes|family-preferences|diet-lens|Prosvent", t, re.I):
             bad.append(f"{f.relative_to(ROOT)}: {m.group(0)}")
     if bad:
         print("PRIVACY CHECK FAILED:\n" + "\n".join(bad[:40]), file=sys.stderr); sys.exit(1)
-    print(f"built {len(recs)} recipes, {len(photos)} with photos")
+    n_plans = len(list((FOOD / "plans").glob("20*.md"))) if (FOOD / "plans").is_dir() else 0
+    print(f"built {len(recs)} recipes, {len(photos)} with photos; week sat={cur_sat} plans={n_plans}")
+    if miss_notes:
+        print("unresolved dinners (no recipe page): " + "; ".join(miss_notes))
 
 if __name__ == "__main__":
     main()
