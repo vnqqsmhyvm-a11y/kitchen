@@ -628,6 +628,12 @@ def build_week(recs, title_map, count, css_v):
         current_sat = today - timedelta(days=1)  # yesterday was Sat of that week
     else:
         current_sat = today + timedelta(days=(5 - wd))
+    # Weekend roll-forward (2026-10-17): Kitchen plans next week on Saturday morning. Once that
+    # plan file exists, Sat/Sun show the coming Mon–Sat week; the finishing week moves to Past Weeks.
+    if wd in (5, 6):
+        nxt = current_sat + timedelta(days=7)
+        if (plans_dir / f"{nxt.isoformat()}.md").exists():
+            current_sat = nxt
 
     plans = []
     if plans_dir.is_dir():
