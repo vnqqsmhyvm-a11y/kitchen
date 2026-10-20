@@ -20,7 +20,7 @@ def theme_snippets(key, extra_css=""):
     head = ("<script>(function(){var t;try{t=localStorage.getItem('theme:%s')}catch(e){}"
             "if(t!=='light'&&t!=='dark')t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';"
             "document.documentElement.setAttribute('data-theme',t)})()</script>\n"
-            "<style>.theme-toggle{position:fixed;top:max(10px,env(safe-area-inset-top));right:max(10px,env(safe-area-inset-right));z-index:1000;"
+            "<style>.theme-toggle{position:fixed;top:calc(10px + env(safe-area-inset-top,0px));right:calc(10px + env(safe-area-inset-right,0px));z-index:1000;"
             "width:40px;height:40px;border-radius:50%%;border:1px solid rgba(127,127,127,.35);background:rgba(127,127,127,.14);"
             "-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);color:inherit;display:flex;align-items:center;justify-content:center;"
             "cursor:pointer;padding:0;-webkit-tap-highlight-color:transparent}"
