@@ -15,6 +15,34 @@ import sys
 from pathlib import Path
 from datetime import date, timedelta
 
+# Shared light/dark toggle snippet (copied verbatim into each site builder).
+def theme_snippets(key, extra_css=""):
+    head = ("<script>(function(){var t;try{t=localStorage.getItem('theme:%s')}catch(e){}"
+            "if(t!=='light'&&t!=='dark')t=matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';"
+            "document.documentElement.setAttribute('data-theme',t)})()</script>\n"
+            "<style>.theme-toggle{position:fixed;top:max(10px,env(safe-area-inset-top));right:max(10px,env(safe-area-inset-right));z-index:1000;"
+            "width:40px;height:40px;border-radius:50%%;border:1px solid rgba(127,127,127,.35);background:rgba(127,127,127,.14);"
+            "-webkit-backdrop-filter:blur(8px);backdrop-filter:blur(8px);color:inherit;display:flex;align-items:center;justify-content:center;"
+            "cursor:pointer;padding:0;-webkit-tap-highlight-color:transparent}"
+            ".theme-toggle:hover{background:rgba(127,127,127,.24)}.theme-toggle svg{width:20px;height:20px;display:block}"
+            "[data-theme=dark] .theme-toggle .moon,[data-theme=light] .theme-toggle .sun{display:none}"
+            "@media print{.theme-toggle{display:none}}%s</style>") % (key, extra_css)
+    btn = ('<button class="theme-toggle" type="button" aria-label="Toggle light/dark mode" title="Light/dark">'
+           '<svg class="sun" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true">'
+           '<circle cx="12" cy="12" r="4.5"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>'
+           '<svg class="moon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">'
+           '<path d="M20.5 14.5A8.5 8.5 0 0 1 9.5 3.5a8.5 8.5 0 1 0 11 11z"/></svg></button>\n'
+           "<script>(function(){var d=document.documentElement,k='theme:%s';"
+           "function set(t,save){d.setAttribute('data-theme',t);if(save)try{localStorage.setItem(k,t)}catch(e){}"
+           "var m=document.querySelector('meta[name=theme-color]:not([media])');if(m&&window.__tc)m.content=window.__tc[t]||m.content}"
+           "document.querySelectorAll('.theme-toggle').forEach(function(b){b.addEventListener('click',function(){set(d.getAttribute('data-theme')==='dark'?'light':'dark',true)})});"
+           "try{matchMedia('(prefers-color-scheme: dark)').addEventListener('change',function(e){var s;try{s=localStorage.getItem(k)}catch(x){}if(!s)set(e.matches?'dark':'light')})}catch(e){}"
+           "})()</script>") % key
+    return head, btn
+
+THEME_HEAD, THEME_BTN = theme_snippets('kitchen', 'html .dateline{padding-right:48px}')
+
+
 ROOT = Path(__file__).resolve().parent
 FOOD = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else ROOT / "food"
 RECIPES = FOOD / "recipes"
@@ -277,6 +305,7 @@ def head(title, base, css_v):
 <html lang="en">
 <head>
 <meta charset="utf-8">
+{THEME_HEAD}
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="robots" content="noindex, nofollow">
 <meta name="referrer" content="no-referrer">
@@ -288,6 +317,7 @@ def head(title, base, css_v):
 <link rel="stylesheet" href="{base}assets/site.css?v={css_v}">
 </head>
 <body>
+{THEME_BTN}
 <div class="page">"""
 
 def masthead(base, current, count):

@@ -16,10 +16,11 @@
   --body:"Source Serif 4",Georgia,Cambria,"Times New Roman",serif;
   --label:"Oswald","Arial Narrow","Helvetica Neue",Arial,sans-serif;
 }
-@media (prefers-color-scheme:dark){:root{
+:root[data-theme=light]{color-scheme:light}
+:root[data-theme=dark]{color-scheme:dark;
   --paper:#171512; --card:#201d19; --ink:#ebe5d9; --soft:#cfc8ba; --muted:#a39a8a;
   --rule:#3b362e; --rule-strong:#d9d2c4; --accent:#f08a7a; --link:#f4a497; --herb:#a8c48f; --chip:#2a2621;
-}}
+}
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%}
 body{margin:0;background:var(--paper);color:var(--ink);font:400 18px/1.6 var(--body);
