@@ -1,1113 +1,1155 @@
 {
+ "amanda-tuna-noodle-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/amanda-tuna-noodle-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
+ },
  "american-potato-salad": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "amish-snow-day-soup": {
+  "checked": "2026-11-04",
+  "credit": "x.com",
   "path": "photos/amish-snow-day-soup.jpg",
   "source": "https://x.com/nakemler/status/2118102735631634707",
-  "credit": "x.com",
-  "status": "ok",
-  "checked": "2026-11-04"
+  "status": "ok"
  },
  "bacon-in-oven": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "baked-cod-with-tomatoes": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "baked-eggplant-parmesan": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/baked-eggplant-parmesan.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/08/eggplant-parmesan-25-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "baked-feta-tomato-pasta": {
+  "checked": "2026-10-13",
+  "credit": "cooking.nytimes.com",
   "path": "photos/baked-feta-tomato-pasta.jpg",
   "source": "https://static01.nyt.com/images/2021/04/18/dining/mp-feta-pasta/mp-feta-pasta-facebookJumbo-v2.jpg",
-  "credit": "cooking.nytimes.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "baked-salmon-in-foil": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/baked-salmon-in-foil.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/07/baked-salmon-in-foil-532-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "baked-tandoori-chicken": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/baked-tandoori-chicken.jpg",
   "source": "https://www.recipetineats.com/tachyon/2015/09/Tandoori-Chicken__2.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "baked-vegetable-frittata": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/baked-vegetable-frittata.jpg",
   "source": "https://www.recipetineats.com/tachyon/2019/03/Baked-Frittata_1.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
+ },
+ "baked-ziti-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/baked-ziti-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
  },
  "bang-bang-chicken": {
+  "checked": "2026-10-30",
+  "credit": "x.com",
   "path": "photos/bang-bang-chicken.jpg",
   "source": "https://pbs.twimg.com/media/HV6EcedWIAADFUk.jpg",
-  "credit": "x.com",
-  "status": "ok",
-  "checked": "2026-10-30"
+  "status": "ok"
  },
  "beef-and-broccoli": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/beef-and-broccoli.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/04/beef-and-broccoli-recipe-14.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "beef-and-broccoli-ramen-stir-fry": {
+  "checked": "2026-11-05",
+  "credit": "x.com",
   "path": "photos/beef-and-broccoli-ramen-stir-fry.jpg",
   "source": "https://x.com/recipesbyclare/status/2118376027953000744",
-  "credit": "x.com",
-  "status": "ok",
-  "checked": "2026-11-05"
+  "status": "ok"
  },
  "beef-kofta-with-roasted-vegetables": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "black-bean-burgers": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/black-bean-burgers.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2021/07/black-bean-burger-recipe-036.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "black-bean-tacos": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "black-eyed-peas-and-greens": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "blackened-tilapia": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "brazilian-fish-stew-moqueca": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/brazilian-fish-stew-moqueca.jpg",
   "source": "https://www.recipetineats.com/tachyon/2015/09/Brazilian-Fish-Stew_6.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "brazilian-rice": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "breakfast-burritos": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "cajun-potato-soup": {
+  "checked": "2026-10-13",
+  "credit": "x.com post media (Flavorful Kitchen Adventures)",
   "path": "photos/cajun-potato-soup.jpg",
   "source": "https://pbs.twimg.com/media/HT6gQIEWMAAVLmx.png",
-  "credit": "x.com post media (Flavorful Kitchen Adventures)",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "carrot-cake-cookies": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "cava-night": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "chicken-and-rice-bowls": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chicken-and-stuffing-casserole": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
+ },
+ "chicken-broccoli-rice-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/chicken-broccoli-rice-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
  },
  "chicken-drumsticks-dry-rub": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chicken-kabobs": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chicken-noodle-soup": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/chicken-noodle-soup.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2021/12/chicken-noodle-soup-15-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "chicken-or-steak-ramen": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chicken-piccata-meatballs": {
+  "checked": "2026-10-13",
+  "credit": "x.com post media (Flavorful Kitchen Adventures)",
   "path": "photos/chicken-piccata-meatballs.jpg",
   "source": "https://pbs.twimg.com/media/HUOuF5kW0AEKftq.png",
-  "credit": "x.com post media (Flavorful Kitchen Adventures)",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "chicken-salad": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chicken-shawarma-bowls": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "chicken-tortilla-soup": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/chicken-tortilla-soup.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/12/chicken-tortilla-soup-07-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "chili": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "chinese-cashew-chicken": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/chinese-cashew-chicken.jpg",
   "source": "https://www.recipetineats.com/tachyon/2015/10/Cashew-Chicken_6.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "chocolate-covered-graham-crackers": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "cod-fish-tacos-with-cumin-lime-slaw": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "copycat-panda-teriyaki-chicken": {
+  "checked": "2026-10-13",
+  "credit": "pocketfriendlyrecipes.com",
   "path": "photos/copycat-panda-teriyaki-chicken.jpg",
   "source": "https://www.pocketfriendlyrecipes.com/wp-content/uploads/2024/03/MSN-Panda-Express-Teriyaki-Chicken.jpg",
-  "credit": "pocketfriendlyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "corn-flake-chicken": {
+  "checked": "2026-10-13",
+  "credit": "tasteofhome.com",
   "path": "photos/corn-flake-chicken.jpg",
   "source": "https://www.tasteofhome.com/wp-content/uploads/2024/12/EXPS_TOHD24_19857_KaylaWidmer_5.jpg",
-  "credit": "tasteofhome.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "corn-flake-fish": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "creamy-pesto-pasta-salad": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "creamy-salmon-orzo": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/creamy-salmon-orzo.jpg",
   "source": "https://www.recipetineats.com/tachyon/2016/03/Creamy-Salmon-Risoni-Orzo_2.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "cuban-picadillo": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "curry-chicken": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "dal-yellow-split-pea-curry": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/dal-yellow-split-pea-curry.jpg",
   "source": "https://www.recipetineats.com/tachyon/2018/07/Dal_0-2.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "enfrijoladas": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "falafel-bowls": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "filipino-pork-adobo": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/filipino-pork-adobo.jpg",
   "source": "https://www.recipetineats.com/tachyon/2025/08/Pork-adobo-served-with-rice.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "fish-chowder": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/fish-chowder.jpg",
   "source": "https://www.recipetineats.com/tachyon/2019/04/White-Fish-Soup_6.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "gigantes-plaki-greek-baked-beans": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "greek-artichoke-dip": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "greek-chicken-bowls": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/greek-chicken-bowls.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/04/greek-chicken-bowls-02-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "greek-turkey-and-rice-skillet": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "greek-turkey-burgers": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "grilled-lemon-garlic-shrimp": {
+  "checked": "2026-10-20",
+  "credit": "seriouseats.com",
   "path": "photos/grilled-lemon-garlic-shrimp.jpg",
   "source": "https://www.seriouseats.com/thmb/tmnquAvcdZHQnKchfZ2HhhkRsB8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20250605-SEA-GrilledShrimpHoneyLemon-MelatiCitrawireja-HERO-7ce9f77e2b064052b9b4cf9c3776aaa2.jpg",
-  "credit": "seriouseats.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "grilled-pork-chops": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "grilled-steak": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "ground-turkey-stir-fry": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "ham-and-cottage-cheese-hot-pocket": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "ham-and-white-bean-soup": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "harissa-chicken-bowls": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://feel)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://feel)"
+  "status": "missing"
  },
  "healthier-hamburger-helper": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "honey-garlic-glazed-beef": {
+  "checked": "2026-10-13",
+  "credit": "x.com post media (Spoon and Soul)",
   "path": "photos/honey-garlic-glazed-beef.jpg",
   "source": "https://pbs.twimg.com/media/HUL3KiBbAAANF3p.jpg",
-  "credit": "x.com post media (Spoon and Soul)",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "honey-garlic-salmon": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/honey-garlic-salmon.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2015/11/honey-garlic-salmon-34-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "honey-garlic-tilapia": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "huevos-rancheros-bowls": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/huevos-rancheros-bowls.jpg",
   "source": "https://www.recipetineats.com/tachyon/2014/10/Huevos-Rancheros-Tortilla-Bowls-12.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "inside-out-egg-rolls": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "instant-pot-butter-chicken": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/instant-pot-butter-chicken.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2019/05/Instant-Pot-Butter-Chicken-41.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "instant-pot-chicken-cacciatore": {
+  "checked": "2026-10-13",
+  "credit": "skinnytaste.com",
   "path": "photos/instant-pot-chicken-cacciatore.jpg",
   "source": "https://www.skinnytaste.com/wp-content/uploads/2017/10/Instant-Pot-Chicken-Cacciotore-1-3.jpg",
-  "credit": "skinnytaste.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "jambalaya": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/jambalaya.jpg",
   "source": "https://www.recipetineats.com/tachyon/2019/06/Jambalaya_0.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "korean-beef-bowls": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/korean-beef-bowls.jpg",
   "source": "https://www.recipetineats.com/tachyon/2025/09/Easy-Korean-Bulgogi-Beef-Bowls_7.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "lemon-chicken-orzo": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/lemon-chicken-orzo.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/02/lemon-chicken-orzo-17-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "lemon-garlic-butter-tilapia": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "lentil-bolognese": {
+  "checked": "2026-10-20",
+  "credit": "rainbowplantlife.com",
   "path": "photos/lentil-bolognese.jpg",
   "source": "https://rainbowplantlife.com/wp-content/uploads/2020/04/red-lentil-bolognese-twirling-pasta.png",
-  "credit": "rainbowplantlife.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "make-ahead-bean-and-cheese-burritos": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
+ },
+ "meatlovers-pizza-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/meatlovers-pizza-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
  },
  "mediterranean-beef-wraps": {
+  "checked": "2026-10-13",
+  "credit": "x.com",
   "path": "photos/mediterranean-beef-wraps.jpg",
   "source": "https://pbs.twimg.com/media/HUOuZu0XYAAUyYM.png",
-  "credit": "x.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "mediterranean-tuna-pasta": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "mujaddara": {
+  "checked": "2026-10-20",
+  "credit": "seriouseats.com",
   "path": "photos/mujaddara.jpg",
   "source": "https://www.seriouseats.com/thmb/2NyrpcGA8k4WyHScdSwookzu5iI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/20260410-SEA-Mujaddara-AmandaSuarez-12-04ee85af5b6f4064a591ba896514d4c7.jpg",
-  "credit": "seriouseats.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "no-added-sugar-blueberry-muffins": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "one-pan-bang-bang-salmon-potato-bake": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "one-pot-spanish-chickpea-chicken": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/one-pot-spanish-chickpea-chicken.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2017/01/one-pot-spanish-chickpea-chicken-1200-2155.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "parmesan-crusted-baked-tilapia": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "pasta-e-ceci": {
+  "checked": "2026-10-20",
+  "credit": "simplyrecipes.com",
   "path": "photos/pasta-e-ceci.jpg",
   "source": "https://www.simplyrecipes.com/thmb/5y06aC0nZd50P4CsQyrtvZTofGQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/simply-recipes-pasta-e-ceci-lead-3-8a3336895d7c41a3a15633b3df19c172.jpg",
-  "credit": "simplyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "pasta-primavera": {
+  "checked": "2026-10-20",
+  "credit": "simplyrecipes.com",
   "path": "photos/pasta-primavera.jpg",
   "source": "https://www.simplyrecipes.com/thmb/8Me1g0zpqHjfhAmSjgzuK3IV7O8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Classic-Pasta-Primavera-2-LEAD-8-9101df965765412eaaf468fb3a28de1b.jpg",
-  "credit": "simplyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "peanut-noodles-with-chicken": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "pesto-chicken-pasta": {
+  "checked": "2026-10-13",
+  "credit": "pinchofyum.com",
   "path": "photos/pesto-chicken-pasta.jpg",
   "source": "https://pinchofyum.com/tachyon/2014/03/lemon-pesto-penne-3.jpg",
-  "credit": "pinchofyum.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "polish-cabbage-rolls": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/polish-cabbage-rolls.jpg",
   "source": "https://www.recipetineats.com/tachyon/2026/09/Cabbage-Rolls_3.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "pork-chile-verde": {
+  "checked": "2026-10-20",
+  "credit": "simplyrecipes.com",
   "path": "photos/pork-chile-verde.jpg",
   "source": "https://www.simplyrecipes.com/thmb/KTfnBReibihRKCc9wUUtFlOE30g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2007__10__chile-verde-horiz-640-d76afe0c28d44e79aca2168258f5ed23.jpg",
-  "credit": "simplyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-20"
+  "status": "ok"
  },
  "pork-lo-mein": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/pork-lo-mein.jpg",
   "source": "https://www.recipetineats.com/tachyon/2019/11/Lo-Mein_5.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "pork-ribs": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "pork-souvlaki": {
+  "checked": "2026-10-13",
+  "credit": "tasteofhome.com",
   "path": "photos/pork-souvlaki.jpg",
   "source": "https://www.tasteofhome.com/wp-content/uploads/2024/10/Pork-Souvlaki_EXPS_FT24_277744_EC_1003_7.jpg",
-  "credit": "tasteofhome.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "punjabi-egg-curry": {
+  "checked": "2026-10-13",
+  "credit": "indianhealthyrecipes.com",
   "path": "photos/punjabi-egg-curry.jpg",
   "source": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/04/egg-curry-recipe.jpg",
-  "credit": "indianhealthyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "quesadillas": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "rajma-kidney-bean-curry": {
+  "checked": "2026-10-13",
+  "credit": "indianhealthyrecipes.com",
   "path": "photos/rajma-kidney-bean-curry.jpg",
   "source": "https://www.indianhealthyrecipes.com/wp-content/uploads/2022/05/rajma-recipe-rajma-masala.jpg",
-  "credit": "indianhealthyrecipes.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "red-beans-and-brown-rice": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "ritz-chicken-nugget-protein-bowl": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "roasted-veggie-hummus-bowls": {
+  "checked": "2026-10-13",
+  "credit": "pinchofyum.com",
   "path": "photos/roasted-veggie-hummus-bowls.jpg",
   "source": "https://pinchofyum.com/tachyon/Roasted-Cauliflower-Hummus-Bowls.jpg",
-  "credit": "pinchofyum.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "salmon-patties": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/salmon-patties.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/07/salmon-patties-17-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sausage-and-fried-potatoes": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "sesame-tofu-with-broccoli": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "shakshuka": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "sheet-pan-chicken-fajitas": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/sheet-pan-chicken-fajitas.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/02/sheet-pan-chicken-fajitas-09-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sheet-pan-chickpeas-feta-tomatoes": {
+  "checked": "2026-10-13",
+  "credit": "cooking.nytimes.com",
   "path": "photos/sheet-pan-chickpeas-feta-tomatoes.jpg",
   "source": "https://static01.nyt.com/images/2022/07/28/dining/as-roasted-feta-and-chickpeas/merlin_209335479_52115ec4-9a9b-483e-b749-ed40dc44a69d-facebookJumbo.jpg",
-  "credit": "cooking.nytimes.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sheet-pan-lemon-herb-chicken": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "sheet-pan-pork-tenderloin": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/sheet-pan-pork-tenderloin.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2026/01/sheet-pan-pork-tenderloin-recipe-11-3.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sheet-pan-sausage-and-peppers": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/sheet-pan-sausage-and-peppers.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/02/sausage-and-peppers-23-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
+ },
+ "shepherds-pie-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/shepherds-pie-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
  },
  "shrimp-and-grits": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "shrimp-and-veggie-foil-packs": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "shrimp-and-white-bean-stew": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "shrimp-fried-rice": {
+  "checked": "2026-10-13",
+  "credit": "recipetineats.com",
   "path": "photos/shrimp-fried-rice.jpg",
   "source": "https://www.recipetineats.com/tachyon/2016/05/Chinese-Fried-Rice_2.jpg",
-  "credit": "recipetineats.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "shrimp-scampi-pasta": {
+  "checked": "2026-11-04",
+  "credit": "simplyrecipes.com",
   "path": "photos/shrimp-scampi-pasta.jpg",
   "source": "https://www.simplyrecipes.com/thmb/av7biQtcSk5V0ywxG-BbSzN-ssc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2015__03__shrimp-scampi-vertical-a-1600-9eefaad35e3d476b8915de231a187ddd.jpg",
-  "credit": "simplyrecipes.com",
-  "status": "ok",
-  "checked": "2026-11-04"
+  "status": "ok"
  },
  "shrimp-stir-fry": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/shrimp-stir-fry.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/06/shrimp-stir-fry-recipe-21.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "skillet-chicken-tortilla-casserole": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "slow-cooker-beef-stew": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/slow-cooker-beef-stew.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/10/slow-cooker-beef-stew-30-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "slow-cooker-black-bean-soup": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "slow-cooker-chana-saag": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "slow-cooker-corned-beef": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "slow-cooker-lentil-soup": {
+  "checked": "2026-10-13",
+  "credit": "bettycrocker.com",
   "path": "photos/slow-cooker-lentil-soup.jpg",
   "source": "https://mojo.generalmills.com/api/public/content/Mev6s1IML02SAd4CaFyj_g_gmi_hi_res_jpeg.jpeg?v=f543d754&t=466b54bb264e48b199fc8e83ef1136b4",
-  "credit": "bettycrocker.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "slow-cooker-mexican-shredded-beef": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/slow-cooker-mexican-shredded-beef.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2025/09/shredded-beef-recipe-29.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "slow-cooker-pork-carnitas": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "smoky-potato-chickpea-stew": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "spaghetti-and-meatballs": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "spinach-lasagna-roll-ups": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "spinach-ricotta-chicken-bake": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://easy)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://easy)"
+  "status": "missing"
  },
  "split-pea-soup": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/split-pea-soup.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2022/03/split-pea-soup-08-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "steak-kabobs": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "stuffed-peppers-beans-and-rice": {
+  "checked": "2026-10-13",
+  "credit": "tasteofhome.com",
   "path": "photos/stuffed-peppers-beans-and-rice.jpg",
   "source": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Vegetarian-Stuffed-Peppers_EXPS_TOHcom25_39536_MD_P2_04_02_1b.jpg",
-  "credit": "tasteofhome.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sweet-potato-black-bean-enchiladas": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/sweet-potato-black-bean-enchiladas.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/04/vegetarian-enchiladas-22.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "sweet-potato-turkey-orzo-skillet": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "tacos": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "teriyaki-salmon-bowls": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://ther)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://ther)"
+  "status": "missing"
  },
  "tex-mex-crockpot-chicken": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "tuna-noodle-casserole": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "turkey-baked-ziti": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "turkey-chili": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "turkey-keema-curry": {
+  "checked": "2026-10-13",
+  "credit": "olivemagazine.com",
   "path": "photos/turkey-keema-curry.jpg",
   "source": "https://images.immediate.co.uk/production/volatile/sites/2/2019/05/TurkeyKheemaMatar-298d798.jpg?resize=1200%2C630",
-  "credit": "olivemagazine.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "turkey-meatballs-in-tomato-sauce": {
+  "checked": "2026-10-13",
+  "credit": "nourish-and-fete.com",
   "path": "photos/turkey-meatballs-in-tomato-sauce.jpg",
   "source": "https://www.nourish-and-fete.com/wp-content/uploads/2022/05/baked-turkey-meatballs-facebook.jpg",
-  "credit": "nourish-and-fete.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "turkey-meatloaf": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/turkey-meatloaf.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2023/03/turkey-meatloaf-recipe-12-2.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "turkey-minestrone": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "turkey-sloppy-joes": {
+  "checked": "2026-10-13",
+  "credit": "kristineskitchenblog.com",
   "path": "photos/turkey-sloppy-joes.jpg",
   "source": "https://kristineskitchenblog.com/wp-content/uploads/2024/07/turkey-sloppy-joes-02.jpg",
-  "credit": "kristineskitchenblog.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "turkey-zucchini-boats": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "tuscan-salmon-skillet": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "tzatziki-bowls": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  },
  "vegetarian-lentil-shepherds-pie": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
+ },
+ "walking-taco-casserole": {
+  "checked": "2026-11-05",
+  "credit": "AmandaFlavours via x.com (crop from collage)",
+  "path": "photos/walking-taco-casserole.jpg",
+  "source": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+  "status": "ok"
  },
  "white-bean-kale-soup": {
+  "checked": "2026-11-04",
+  "credit": "",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "missing",
-  "checked": "2026-11-04",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+  "status": "missing"
  },
  "white-chicken-chili": {
+  "checked": "2026-10-13",
+  "credit": "averiecooks.com",
   "path": "photos/white-chicken-chili.jpg",
   "source": "https://www.averiecooks.com/wp-content/uploads/2020/02/whitechickenchili-10-650x977-1.webp",
-  "credit": "averiecooks.com",
-  "status": "ok",
-  "checked": "2026-10-13"
+  "status": "ok"
  },
  "yellow-rice-and-chicken": {
+  "checked": "2026-10-13",
+  "credit": "",
+  "note": "no photo or web source on card",
   "path": "",
   "source": "",
-  "credit": "",
-  "status": "unavailable",
-  "checked": "2026-10-13",
-  "note": "no photo or web source on card"
+  "status": "unavailable"
  }
 }

@@ -1,6 +1,39 @@
 {
   "_comment": "Known direct image URLs found by one-off lookups (e.g. X post media via the public X tools). fetch_photos.py downloads these for recipes with no **Photo:** field.",
-  "cajun-potato-soup": {"url": "https://pbs.twimg.com/media/HT6gQIEWMAAVLmx.png", "via": "x.com post media (Flavorful Kitchen Adventures)"},
-  "chicken-piccata-meatballs": {"url": "https://pbs.twimg.com/media/HUOuF5kW0AEKftq.png", "via": "x.com post media (Flavorful Kitchen Adventures)"},
-  "honey-garlic-glazed-beef": {"url": "https://pbs.twimg.com/media/HUL3KiBbAAANF3p.jpg", "via": "x.com post media (Spoon and Soul)"}
+  "cajun-potato-soup": {
+    "url": "https://pbs.twimg.com/media/HT6gQIEWMAAVLmx.png",
+    "via": "x.com post media (Flavorful Kitchen Adventures)"
+  },
+  "chicken-piccata-meatballs": {
+    "url": "https://pbs.twimg.com/media/HUOuF5kW0AEKftq.png",
+    "via": "x.com post media (Flavorful Kitchen Adventures)"
+  },
+  "honey-garlic-glazed-beef": {
+    "url": "https://pbs.twimg.com/media/HUL3KiBbAAANF3p.jpg",
+    "via": "x.com post media (Spoon and Soul)"
+  },
+  "meatlovers-pizza-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  },
+  "shepherds-pie-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  },
+  "walking-taco-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  },
+  "chicken-broccoli-rice-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  },
+  "amanda-tuna-noodle-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  },
+  "baked-ziti-casserole": {
+    "url": "https://pbs.twimg.com/media/HWVzWYGX0AMHqt9.jpg",
+    "via": "x.com post media (AmandaFlavours) \u2014 site photo is a dish crop from the collage"
+  }
 }
