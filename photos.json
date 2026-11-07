@@ -915,6 +915,27 @@
   "source": "",
   "status": "unavailable"
  },
+ "slow-cooker-dump-bbq-pulled-pork": {
+  "path": "photos/slow-cooker-dump-bbq-pulled-pork.jpg",
+  "source": "https://stroller-envy.com/wp-content/uploads/2026/10/slow-cooker-dump-bbq-pulled-pork.jpg",
+  "credit": "stroller-envy.com",
+  "status": "ok",
+  "checked": "2026-11-07"
+ },
+ "slow-cooker-dump-beef-stroganoff": {
+  "path": "photos/slow-cooker-dump-beef-stroganoff.jpg",
+  "source": "https://stroller-envy.com/wp-content/uploads/2026/10/slow-cooker-dump-beef-stroganoff-dinner.jpg",
+  "credit": "stroller-envy.com",
+  "status": "ok",
+  "checked": "2026-11-07"
+ },
+ "slow-cooker-dump-taco-beef": {
+  "path": "photos/slow-cooker-dump-taco-beef.jpg",
+  "source": "https://stroller-envy.com/wp-content/uploads/2026/10/slow-cooker-dump-taco-beef-dinner.jpg",
+  "credit": "stroller-envy.com",
+  "status": "ok",
+  "checked": "2026-11-07"
+ },
  "slow-cooker-lentil-soup": {
   "checked": "2026-10-13",
   "credit": "bettycrocker.com",
