@@ -30,12 +30,12 @@
   "status": "unavailable"
  },
  "baked-cod-with-tomatoes": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "baked-eggplant-parmesan": {
   "checked": "2026-10-13",
@@ -101,12 +101,12 @@
   "status": "ok"
  },
  "beef-kofta-with-roasted-vegetables": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "black-bean-burgers": {
   "checked": "2026-10-13",
@@ -124,12 +124,12 @@
   "status": "unavailable"
  },
  "black-eyed-peas-and-greens": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "blackened-tilapia": {
   "checked": "2026-10-13",
@@ -147,12 +147,12 @@
   "status": "ok"
  },
  "brazilian-rice": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "breakfast-burritos": {
   "checked": "2026-10-13",
@@ -178,12 +178,12 @@
   "status": "unavailable"
  },
  "cava-night": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "chicken-and-rice-bowls": {
   "checked": "2026-10-13",
@@ -255,12 +255,12 @@
   "status": "unavailable"
  },
  "chicken-shawarma-bowls": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "chicken-tortilla-soup": {
   "checked": "2026-10-13",
@@ -293,12 +293,12 @@
   "status": "unavailable"
  },
  "cod-fish-tacos-with-cumin-lime-slaw": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "copycat-panda-teriyaki-chicken": {
   "checked": "2026-10-13",
@@ -338,12 +338,12 @@
   "status": "ok"
  },
  "cuban-picadillo": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "curry-chicken": {
   "checked": "2026-10-13",
@@ -361,20 +361,20 @@
   "status": "ok"
  },
  "enfrijoladas": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "falafel-bowls": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "filipino-pork-adobo": {
   "checked": "2026-10-13",
@@ -391,12 +391,12 @@
   "status": "ok"
  },
  "gigantes-plaki-greek-baked-beans": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "greek-artichoke-dip": {
   "checked": "2026-10-13",
@@ -414,20 +414,20 @@
   "status": "ok"
  },
  "greek-turkey-and-rice-skillet": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "greek-turkey-burgers": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "grilled-lemon-garlic-shrimp": {
   "checked": "2026-10-20",
@@ -444,6 +444,13 @@
   "source": "",
   "status": "unavailable"
  },
+ "grilled-shrimp-avocado-bowl": {
+  "path": "photos/grilled-shrimp-avocado-bowl.jpg",
+  "source": "https://pbs.twimg.com/media/HV67aUDXwAEt6Fc.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
+ },
  "grilled-steak": {
   "checked": "2026-10-13",
   "credit": "",
@@ -453,12 +460,12 @@
   "status": "unavailable"
  },
  "ground-turkey-stir-fry": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "ham-and-cottage-cheese-hot-pocket": {
   "checked": "2026-10-13",
@@ -469,20 +476,20 @@
   "status": "unavailable"
  },
  "ham-and-white-bean-soup": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "harissa-chicken-bowls": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://feel)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://feel)"
  },
  "healthier-hamburger-helper": {
   "checked": "2026-10-13",
@@ -550,6 +557,13 @@
   "source": "https://www.recipetineats.com/tachyon/2019/06/Jambalaya_0.jpg",
   "status": "ok"
  },
+ "kielbasa-potato-soup": {
+  "path": "photos/kielbasa-potato-soup.jpg",
+  "source": "https://pbs.twimg.com/media/HVAkb2iXcAAw8gj.png",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
+ },
  "korean-beef-bowls": {
   "checked": "2026-10-13",
   "credit": "recipetineats.com",
@@ -580,12 +594,19 @@
   "status": "ok"
  },
  "make-ahead-bean-and-cheese-burritos": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+ },
+ "marry-me-chicken-tortellini": {
+  "path": "photos/marry-me-chicken-tortellini.jpg",
+  "source": "https://pbs.twimg.com/media/HWsEQsvXIAAIele.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
  },
  "meatlovers-pizza-casserole": {
   "checked": "2026-11-05",
@@ -602,12 +623,12 @@
   "status": "ok"
  },
  "mediterranean-tuna-pasta": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "mujaddara": {
   "checked": "2026-10-20",
@@ -631,6 +652,13 @@
   "path": "",
   "source": "",
   "status": "unavailable"
+ },
+ "one-pot-smoked-sausage-pasta": {
+  "path": "photos/one-pot-smoked-sausage-pasta.jpg",
+  "source": "https://pbs.twimg.com/media/HV4kR6iXUAArMt7.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
  },
  "one-pot-spanish-chickpea-chicken": {
   "checked": "2026-10-13",
@@ -662,12 +690,12 @@
   "status": "ok"
  },
  "peanut-noodles-with-chicken": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "pesto-chicken-pasta": {
   "checked": "2026-10-13",
@@ -675,6 +703,13 @@
   "path": "photos/pesto-chicken-pasta.jpg",
   "source": "https://pinchofyum.com/tachyon/2014/03/lemon-pesto-penne-3.jpg",
   "status": "ok"
+ },
+ "pizza-pot-pies": {
+  "path": "photos/pizza-pot-pies.jpg",
+  "source": "https://pbs.twimg.com/media/HV4yBiuXIAAyuUB.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
  },
  "polish-cabbage-rolls": {
   "checked": "2026-10-13",
@@ -735,12 +770,12 @@
   "status": "ok"
  },
  "red-beans-and-brown-rice": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "ritz-chicken-nugget-protein-bowl": {
   "checked": "2026-10-13",
@@ -773,20 +808,20 @@
   "status": "unavailable"
  },
  "sesame-tofu-with-broccoli": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "shakshuka": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "sheet-pan-chicken-fajitas": {
   "checked": "2026-10-13",
@@ -803,12 +838,12 @@
   "status": "ok"
  },
  "sheet-pan-lemon-herb-chicken": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "sheet-pan-pork-tenderloin": {
   "checked": "2026-10-13",
@@ -832,28 +867,28 @@
   "status": "ok"
  },
  "shrimp-and-grits": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "shrimp-and-veggie-foil-packs": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "shrimp-and-white-bean-stew": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "shrimp-fried-rice": {
   "checked": "2026-10-13",
@@ -892,12 +927,12 @@
   "status": "ok"
  },
  "slow-cooker-black-bean-soup": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "slow-cooker-chana-saag": {
   "checked": "2026-10-13",
@@ -944,6 +979,13 @@
   "status": "ok",
   "checked": "2026-11-07"
  },
+ "slow-cooker-ground-beef-french-dip-sandwiches": {
+  "path": "photos/slow-cooker-ground-beef-french-dip-sandwiches.jpg",
+  "source": "https://pbs.twimg.com/media/HV-HQ7WW0AASCDO.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
+ },
  "slow-cooker-lentil-soup": {
   "checked": "2026-10-13",
   "credit": "bettycrocker.com",
@@ -959,20 +1001,27 @@
   "status": "ok"
  },
  "slow-cooker-pork-carnitas": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
+ },
+ "smoky-bbq-beef-and-pepper-rice-bowl": {
+  "path": "photos/smoky-bbq-beef-and-pepper-rice-bowl.jpg",
+  "source": "https://pbs.twimg.com/media/HWo1HHJaQAA0vAL.jpg",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
  },
  "smoky-potato-chickpea-stew": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "spaghetti-and-meatballs": {
   "checked": "2026-10-13",
@@ -983,20 +1032,20 @@
   "status": "unavailable"
  },
  "spinach-lasagna-roll-ups": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "spinach-ricotta-chicken-bake": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://easy)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://easy)"
  },
  "split-pea-soup": {
   "checked": "2026-10-13",
@@ -1020,6 +1069,13 @@
   "source": "https://www.tasteofhome.com/wp-content/uploads/2025/04/Vegetarian-Stuffed-Peppers_EXPS_TOHcom25_39536_MD_P2_04_02_1b.jpg",
   "status": "ok"
  },
+ "swedish-meatball-pasta-bake": {
+  "path": "photos/swedish-meatball-pasta-bake.jpg",
+  "source": "https://pbs.twimg.com/media/HWVghkWXIAAS5oU.png",
+  "credit": "pbs.twimg.com",
+  "status": "ok",
+  "checked": "2026-11-11"
+ },
  "sweet-potato-black-bean-enchiladas": {
   "checked": "2026-10-13",
   "credit": "kristineskitchenblog.com",
@@ -1028,12 +1084,12 @@
   "status": "ok"
  },
  "sweet-potato-turkey-orzo-skillet": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "tacos": {
   "checked": "2026-10-13",
@@ -1044,12 +1100,12 @@
   "status": "unavailable"
  },
  "teriyaki-salmon-bowls": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://ther)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://ther)"
  },
  "tex-mex-crockpot-chicken": {
   "checked": "2026-10-13",
@@ -1060,20 +1116,20 @@
   "status": "unavailable"
  },
  "tuna-noodle-casserole": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "turkey-baked-ziti": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "turkey-chili": {
   "checked": "2026-10-13",
@@ -1105,12 +1161,12 @@
   "status": "ok"
  },
  "turkey-minestrone": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "turkey-sloppy-joes": {
   "checked": "2026-10-13",
@@ -1120,20 +1176,20 @@
   "status": "ok"
  },
  "turkey-zucchini-boats": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "tuscan-salmon-skillet": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "tzatziki-bowls": {
   "checked": "2026-10-13",
@@ -1144,12 +1200,12 @@
   "status": "unavailable"
  },
  "vegetarian-lentil-shepherds-pie": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "walking-taco-casserole": {
   "checked": "2026-11-05",
@@ -1159,12 +1215,12 @@
   "status": "ok"
  },
  "white-bean-kale-soup": {
-  "checked": "2026-11-04",
-  "credit": "",
-  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)",
   "path": "",
   "source": "",
-  "status": "missing"
+  "credit": "",
+  "status": "missing",
+  "checked": "2026-11-11",
+  "note": "site bot-check blocked the page (HTTPError: 403 Client Error: Forbidden for url: https://www.)"
  },
  "white-chicken-chili": {
   "checked": "2026-10-13",

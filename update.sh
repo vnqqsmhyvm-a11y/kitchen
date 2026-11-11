@@ -9,7 +9,10 @@
 set -euo pipefail
 cd "$(dirname "$0")"
 if [ $# -gt 1 ]; then echo "usage: $0 [path/to/food]" >&2; exit 2; fi
-git pull --ff-only --quiet origin main || true
+# Start from origin/main so a prior failed push cannot leave this clone
+# diverged (that caused repeated non-fast-forward publish failures on the Mini).
+git fetch --quiet origin main
+git reset --hard --quiet origin/main
 if [ $# -eq 1 ]; then
   SRC_ROOT="$(cd "$1" && pwd)"
   SRC="$SRC_ROOT/recipes"
